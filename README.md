@@ -1,2 +1,2 @@
 # STIGPN
-Please redirect to https://github.com/WangNing2049/STIGPN
+Please redirect to https://github.com/NingWang2049/STIGPN
